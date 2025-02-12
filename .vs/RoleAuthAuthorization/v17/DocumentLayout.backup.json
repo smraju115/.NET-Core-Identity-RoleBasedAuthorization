@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|f:\\home practice\\selfproject\\roleauthauthorization\\roleauthauthorization\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|solutionrelative:roleauthauthorization\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|f:\\home practice\\selfproject\\roleauthauthorization\\roleauthauthorization\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|solutionrelative:roleauthauthorization\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|f:\\home practice\\selfproject\\roleauthauthorization\\roleauthauthorization\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|solutionrelative:roleauthauthorization\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|f:\\home practice\\selfproject\\roleauthauthorization\\roleauthauthorization\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|solutionrelative:roleauthauthorization\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|f:\\home practice\\selfproject\\roleauthauthorization\\roleauthauthorization\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|solutionrelative:roleauthauthorization\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|f:\\home practice\\selfproject\\roleauthauthorization\\roleauthauthorization\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|solutionrelative:roleauthauthorization\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|f:\\home practice\\selfproject\\roleauthauthorization\\roleauthauthorization\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|solutionrelative:roleauthauthorization\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|f:\\home practice\\selfproject\\roleauthauthorization\\roleauthauthorization\\views\\inventory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|solutionrelative:roleauthauthorization\\views\\inventory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|f:\\home practice\\selfproject\\roleauthauthorization\\roleauthauthorization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|solutionrelative:roleauthauthorization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|f:\\home practice\\selfproject\\roleauthauthorization\\roleauthauthorization\\constants\\myconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|solutionrelative:roleauthauthorization\\constants\\myconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|f:\\home practice\\selfproject\\roleauthauthorization\\roleauthauthorization\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|solutionrelative:roleauthauthorization\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|f:\\home practice\\selfproject\\roleauthauthorization\\roleauthauthorization\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|solutionrelative:roleauthauthorization\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|f:\\home practice\\selfproject\\roleauthauthorization\\roleauthauthorization\\services\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6388C534-FB5C-43DB-A6AA-EDB253E0521B}|RoleAuthAuthorization\\RoleAuthAuthorization.csproj|solutionrelative:roleauthauthorization\\services\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RoleAuthAuthorization\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RoleAuthAuthorization\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T17:11:29.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Views\\Inventory\\Index.cshtml",
+              "RelativeDocumentMoniker": "RoleAuthAuthorization\\Views\\Inventory\\Index.cshtml",
+              "ToolTip": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Views\\Inventory\\Index.cshtml",
+              "RelativeToolTip": "RoleAuthAuthorization\\Views\\Inventory\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T17:06:41.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "RoleAuthAuthorization\\Controllers\\InventoryController.cs",
+              "ToolTip": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "RoleAuthAuthorization\\Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:06:24.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "RoleAuthAuthorization\\Views\\Product\\Index.cshtml",
+              "ToolTip": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "RoleAuthAuthorization\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T17:04:57.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "RoleAuthAuthorization\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "RoleAuthAuthorization\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:04:00.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "RoleAuthAuthorization\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "RoleAuthAuthorization\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAA3wH4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:56:03.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "RoleAuthAuthorization\\Data\\DbSeeder.cs",
+              "ToolTip": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "RoleAuthAuthorization\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:54:12.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyConstants.cs",
+              "DocumentMoniker": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Constants\\MyConstants.cs",
+              "RelativeDocumentMoniker": "RoleAuthAuthorization\\Constants\\MyConstants.cs",
+              "ToolTip": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Constants\\MyConstants.cs",
+              "RelativeToolTip": "RoleAuthAuthorization\\Constants\\MyConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:02:20.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Program.cs",
+              "RelativeDocumentMoniker": "RoleAuthAuthorization\\Program.cs",
+              "ToolTip": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Program.cs",
+              "RelativeToolTip": "RoleAuthAuthorization\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:51:01.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Services\\IFileService.cs",
+              "RelativeDocumentMoniker": "RoleAuthAuthorization\\Services\\IFileService.cs",
+              "ToolTip": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Services\\IFileService.cs",
+              "RelativeToolTip": "RoleAuthAuthorization\\Services\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:46:24.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "RoleAuthAuthorization\\Services\\FileService.cs",
+              "ToolTip": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Services\\FileService.cs",
+              "RelativeToolTip": "RoleAuthAuthorization\\Services\\FileService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:42:52.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RoleAuthAuthorization\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "RoleAuthAuthorization\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAADwv4AAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:27:07.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "RoleAuthAuthorization\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "F:\\Home Practice\\SelfProject\\RoleAuthAuthorization\\RoleAuthAuthorization\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "RoleAuthAuthorization\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T15:27:06.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
